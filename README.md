@@ -1,1 +1,4 @@
-# Web-page-classification-for-safe-browsing
+# PHISHED URL DETECTION
+
+ABSTRACT:
+Phishing is a threat to the internet user, which is used to phish the information from targeted victims like a bank, Aadhar, net-banking, e-shopping, etc. In phishing, the phisher sends a URL to the victim through an email or network, then the victim clicks the link and submits their details without any awareness about the Phishing attack. In today's internet world phishing attacks increasing year by year and also managing these types of attacks more staff will be recruited for cybersecurity. There are difficulties to find a Phishing URL by the internet user but the browser can detect it. The browser will have an intelligent approach to detect the phishing URL using a plug-in, which classifies the URL from the lexical and domain features. So the internet user installs a plug-in to the browser, it will immediately alert the user, when the URL opened in a tab is suspicious or phished.
